@@ -1,0 +1,4 @@
+#Wed Apr 29 18:58:09 BST 2020
+base.0=/Users/farid/Desktop/flutter_instagram_feed_ui_redesign/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
